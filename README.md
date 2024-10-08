@@ -1,2 +1,6 @@
-# Dev-Notes
- These are my notes about what I have learned on my own!
+# DEVELOPER LOG
+
+## Dev Logs
+
+#### 2024-10-08
+    - Learned how to use Github and made this repository.
